@@ -1,8 +1,8 @@
-# FastAPI Google Auth Backend
+# FastAPI Google Auth Backend Tasks
 
 [Spanish version](#spanish)
 
-Backend built with **FastAPI**, implementing robust authentication via JWT and Google OAuth. It is designed to be secure, fast, and easy to integrate with modern frontends like Next.js.
+Backend built with **FastAPI**, implementing robust authentication via JWT and Google OAuth. It is designed to be secure, fast crud tasks, and easy to integrate with modern frontends like Next.js.
 
 ## 🚀 Features
 
