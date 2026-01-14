@@ -2,6 +2,12 @@
 
 [Spanish version](#spanish)
 
+Same project in other backend:
+
+[Flask](https://github.com/diegoperea20/flask-rest-api-with-jwt-google-oauth-tasks)
+
+[Django](https://github.com/diegoperea20/django-google-authentication-api-tasks)
+
 Backend built with **FastAPI**, implementing robust authentication via JWT and Google OAuth. It is designed to be secure, fast crud tasks, and easy to integrate with modern frontends like Next.js.
 
 ## 🚀 Features
