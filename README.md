@@ -8,6 +8,10 @@ Same project in other backend:
 
 [Django](https://github.com/diegoperea20/django-google-authentication-api-tasks)
 
+Frontend:
+
+[Nextjs](https://github.com/diegoperea20/nextjs-frontend-jwt-api-backend-integration-tasks)
+
 Backend built with **FastAPI**, implementing robust authentication via JWT and Google OAuth. It is designed to be secure, fast crud tasks, and easy to integrate with modern frontends like Next.js.
 
 ## 🚀 Features
